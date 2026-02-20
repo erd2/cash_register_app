@@ -37,4 +37,5 @@ void main() {
   print('Сумма: ${total.toStringAsFixed(2)} тг');
   print('В том числе НДС (12%): ${vat.toStringAsFixed(2)} тг');
   print('ИТОГО К ОПЛАТЕ: ${finalSum.toStringAsFixed(2)} тг');
+  // sdasdasdas
 }
